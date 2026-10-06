@@ -12,7 +12,7 @@
     {
       "binding": "DB",
       "database_name": "cho-nha-db",
-      "database_id": "5839dbc5-0eaa-4a03-a152-7005f7b037d6",
+      "database_id": "69ef2d43-5c78-4ef4-9c9f-75ee98f39ce8",
       "migrations_dir": "migrations"
     }
   ]
